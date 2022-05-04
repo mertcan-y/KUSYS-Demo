@@ -1,0 +1,15 @@
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Entities\bin\Debug\net6.0\KUSYS.Entities.deps.json
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Entities\bin\Debug\net6.0\KUSYS.Entities.dll
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Entities\bin\Debug\net6.0\KUSYS.Entities.pdb
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Entities\bin\Debug\net6.0\KUSYS.Core.dll
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Entities\bin\Debug\net6.0\KUSYS.Core.pdb
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Entities\obj\Debug\net6.0\KUSYS.Entities.csproj.AssemblyReference.cache
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Entities\obj\Debug\net6.0\KUSYS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Entities\obj\Debug\net6.0\KUSYS.Entities.AssemblyInfoInputs.cache
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Entities\obj\Debug\net6.0\KUSYS.Entities.AssemblyInfo.cs
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Entities\obj\Debug\net6.0\KUSYS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Entities\obj\Debug\net6.0\KUSYS.Entities.csproj.CopyComplete
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Entities\obj\Debug\net6.0\KUSYS.Entities.dll
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Entities\obj\Debug\net6.0\refint\KUSYS.Entities.dll
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Entities\obj\Debug\net6.0\KUSYS.Entities.pdb
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Entities\obj\Debug\net6.0\ref\KUSYS.Entities.dll

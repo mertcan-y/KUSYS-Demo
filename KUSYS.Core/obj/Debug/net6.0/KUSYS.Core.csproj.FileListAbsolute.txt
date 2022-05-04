@@ -1,0 +1,12 @@
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Core\obj\Debug\net6.0\KUSYS.Core.csproj.AssemblyReference.cache
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Core\obj\Debug\net6.0\KUSYS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Core\obj\Debug\net6.0\KUSYS.Core.AssemblyInfoInputs.cache
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Core\obj\Debug\net6.0\KUSYS.Core.AssemblyInfo.cs
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Core\obj\Debug\net6.0\KUSYS.Core.csproj.CoreCompileInputs.cache
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Core\bin\Debug\net6.0\KUSYS.Core.deps.json
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Core\bin\Debug\net6.0\KUSYS.Core.dll
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Core\bin\Debug\net6.0\KUSYS.Core.pdb
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Core\obj\Debug\net6.0\KUSYS.Core.dll
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Core\obj\Debug\net6.0\refint\KUSYS.Core.dll
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Core\obj\Debug\net6.0\KUSYS.Core.pdb
+C:\Users\mertcan\source\repos\KUSYS\KUSYS.Core\obj\Debug\net6.0\ref\KUSYS.Core.dll
